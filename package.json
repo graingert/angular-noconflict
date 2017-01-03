@@ -1,0 +1,12 @@
+{
+  "name": "angular-noconflict",
+  "version": "1.0.1",
+  "description": "import angular without window.angular",
+  "main": "index.js",
+  "repository": "https://github.com/graingert/angular-noconflict",
+  "author": "Thomas Grainger <angular-noconflict@graingert.co.uk>",
+  "license": "MIT",
+  "peerDependencies": {
+      "angular": 1
+  }
+}
